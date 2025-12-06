@@ -8,7 +8,7 @@ import string
 # ========= CONFIGURE THESE =========
 
 # Root folder that contains your 1764xxxx_xxxx directories
-ROOT_DIR = Path(r"C:\Users\kaspe\Documents\Topdon\trail cam\02")
+ROOT_DIR = Path(r"CHANGE ME")
 
 # Name of folder (inside ROOT_DIR) where all final mp4s will be collected.
 MOVE_TO_SUBFOLDER = "allmp4s"   # set to None if you don't want them moved
@@ -163,3 +163,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
